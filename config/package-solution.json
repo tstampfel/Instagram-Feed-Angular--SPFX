@@ -1,0 +1,10 @@
+{
+  "solution": {
+    "name": "instagram-spfx-client-side-solution",
+    "id": "359ef683-6ad5-48b4-8771-436cfd106f0d",
+    "version": "1.0.0.0"
+  },
+  "paths": {
+    "zippedPackage": "solution/instagram-spfx.spapp"
+  }
+}

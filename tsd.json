@@ -1,0 +1,30 @@
+{
+  "version": "v4",
+  "repo": "borisyankov/DefinitelyTyped",
+  "ref": "master",
+  "path": "typings",
+  "bundle": "typings/tsd.d.ts",
+  "installed": {
+    "jquery/jquery.d.ts": {
+      "commit": "b26b960488568032a30784845a007ca1d7d1de9a"
+    },
+    "angularjs/angular.d.ts": {
+      "commit": "b26b960488568032a30784845a007ca1d7d1de9a"
+    },
+    "combokeys/combokeys.d.ts": {
+      "commit": "b26b960488568032a30784845a007ca1d7d1de9a"
+    },
+    "bootstrap/bootstrap.d.ts": {
+      "commit": "b26b960488568032a30784845a007ca1d7d1de9a"
+    },
+    "angular-ui-bootstrap/angular-ui-bootstrap.d.ts": {
+      "commit": "b26b960488568032a30784845a007ca1d7d1de9a"
+    },
+    "microsoft-ajax/microsoft.ajax.d.ts": {
+      "commit": "b26b960488568032a30784845a007ca1d7d1de9a"
+    },
+    "sharepoint/SharePoint.d.ts": {
+      "commit": "b26b960488568032a30784845a007ca1d7d1de9a"
+    }
+  }
+}
